@@ -437,4 +437,3 @@ class Box
     box_y -= offset;
   }
 }
-2 min to Spreed
